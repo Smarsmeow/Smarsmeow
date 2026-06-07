@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/249097769?v=4" width="100" style="border-radius:50%"/>
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/249097769?v=4" width="80" style="border-radius:50%"/>
+
+<br/><br/>
 
 ```
   ▒  M I C H A E L  ·  S M A R S M E O W  ▒
 ```
 
-> *the million* &nbsp;·&nbsp; `uid 470,453` &nbsp;·&nbsp; *baddie's daddy*
+<br/>
+
+*the million* &nbsp;·&nbsp; `uid 470,453` &nbsp;·&nbsp; *baddie's daddy*
+
+<br/>
 
 </div>
 
@@ -47,8 +55,10 @@ const michael = {
 
 *a full-stack Discord-integrated web platform — built from nothing*
 
+<br/>
+
 | feature | status |
-|---|---|
+|:---:|:---:|
 | ticket system | `live` |
 | staff applications | `live` |
 | emoji browser | `live` |
@@ -63,6 +73,8 @@ const michael = {
 
 ### `◈  S T A C K  ◈`
 
+<br/>
+
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white)
@@ -76,17 +88,17 @@ const michael = {
 
 <div align="center">
 
-### `◈  T H E  V O I D  R U N N E R  ◈`
+### `◈  V O I D  R U N N E R  ◈`
 
-*a gothic endless runner — built into this profile*
-
-[![Play Void Runner](https://img.shields.io/badge/▶_PLAY_VOID_RUNNER-000000?style=for-the-badge&logoColor=white)](https://smarsmeow.github.io/Smarsmeow/game)
+*gothic endless runner — built into this profile*
 
 <br/>
 
-![Void Runner Game](https://smarsmeow.github.io/Smarsmeow/game/preview.svg)
+[![Play Void Runner](https://img.shields.io/badge/▶%20PLAY%20VOID%20RUNNER-000000?style=for-the-badge&logoColor=white)](https://smarsmeow.github.io/Smarsmeow/game)
 
-*`SPACE` or `↑` to jump &nbsp;·&nbsp; dodge the falling shadows &nbsp;·&nbsp; survive the void*
+<br/>
+
+*`SPACE` or `↑` to jump &nbsp;·&nbsp; dodge the shadows &nbsp;·&nbsp; survive the void*
 
 </div>
 
@@ -95,6 +107,8 @@ const michael = {
 <div align="center">
 
 ### `◈  F I N D  M E  ◈`
+
+<br/>
 
 [![Discord](https://img.shields.io/badge/PKR™_Server-discord.gg/pkr-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pkr)
 [![Instagram](https://img.shields.io/badge/@smarsmeow-instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smarsmeow/)
@@ -106,5 +120,7 @@ const michael = {
 ```
 ◈ — silence is the loudest flex — ◈
 ```
+
+<br/>
 
 </div>
